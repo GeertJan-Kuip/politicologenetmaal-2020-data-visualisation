@@ -1,0 +1,6 @@
+avvote_clausen1,avvote_clausen2,avvote_clausen4,avvote_prodemocracy,statename,statecode,timeperiod,percfb,percfb_lag3,netmighist3decades,netmighist3decades_lag3,urbanization,partyaffiliation,slaverystate
+"66,3","65,4","72,6","51,3",Alabama,1,3,1,None,None,None,"6,3","134,5",0
+"76,7","73,1","84,1","97,1",Alabama,1,4,"0,8",1,None,None,"5,4","102,9",0
+72,"46,4","77,3","89,7",Alabama,1,5,1,"1,3",None,None,"10,1","108,1",0
+"76,6","78,8","87,6",100,Alabama,1,6,"0,8",1,"-7,8",None,"11,9",100,0
+"78,4","72,6","84,1","65,8",Alabama,1,7,"0,9","0,8","-5,2",None,"17,3",100,0
